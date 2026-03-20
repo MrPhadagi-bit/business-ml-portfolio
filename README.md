@@ -1,6 +1,22 @@
 # Future Intern ML project 
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-f7931e)
+![NLP](https://img.shields.io/badge/NLP-Text%20Analytics-0f766e)
+![Forecasting](https://img.shields.io/badge/Focus-Business%20Forecasting-1d4ed8)
+![Status](https://img.shields.io/badge/Portfolio-Active-16a34a)
+
 This repository showcases three practical machine learning projects built around real business operations, not toy chatbots. Each project solves a different decision-support problem: demand forecasting, support ticket routing, and candidate screening.
+
+## About Me
+
+I am building a portfolio focused on practical machine learning systems that solve real business problems. My work here emphasizes clear problem framing, clean Python implementation, interpretable results, and project write-ups that both technical and non-technical stakeholders can understand.
+
+This portfolio is especially focused on:
+
+- machine learning for business operations
+- NLP workflows for support and hiring decisions
+- decision-support systems that can be explained clearly to managers, recruiters, and clients
 
 ## Portfolio Highlights
 

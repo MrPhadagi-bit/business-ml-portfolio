@@ -1,4 +1,4 @@
-# Future Intern ML project 
+# FUTURE INTERN PROJECTS
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-f7931e)
@@ -35,7 +35,7 @@ This portfolio is especially focused on:
 ## Repository Structure
 
 ```text
-business-ml-portfolio/
+FUTURE INTERN PROJECTS/
   projects/
     superstore-sales-forecasting/
     support-ticket-classification/

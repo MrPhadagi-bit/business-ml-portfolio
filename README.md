@@ -1,5 +1,7 @@
 # FUTURE INTERN PROJECTS
 
+Practical machine learning portfolio with projects in sales forecasting, NLP ticket classification, and resume screening.
+
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-f7931e)
 ![NLP](https://img.shields.io/badge/NLP-Text%20Analytics-0f766e)
